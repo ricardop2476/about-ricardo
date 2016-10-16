@@ -7,10 +7,10 @@ Ricardo Pena has been a resident in Brooklyn, NY for his entire life. He is 15 y
 
 **Schedule**
 1. Adv Algebra
-1. Honors English
-1. AP US History
-1. Spanish
-1. SEP
-1. Lunch
-1. Physical Education
-1. Physics
+2. Honors English
+3. AP US History
+4. Spanish
+5. SEP
+6. Lunch
+7. Physical Education
+8. Physics
